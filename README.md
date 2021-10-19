@@ -3,7 +3,8 @@
 ## CONTENTS
 1. [MISSION](https://github.com/Nelly-Wambui/Nelly-Roadmap/blob/main/README.md#mission)
 2. [VISION](https://github.com/Nelly-Wambui/Nelly-Roadmap/blob/main/README.md#vision)
-3. [MILESTONES](url)
+3. [MILESTONES](https://github.com/Nelly-Wambui/Nelly-Roadmap/blob/main/README.md#milestones)
+4. [TASKS](url)
 
 ## MISSION
 

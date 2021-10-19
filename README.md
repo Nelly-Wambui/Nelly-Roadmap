@@ -1,5 +1,9 @@
 # Nelly Wambui-Roadmap
 
+## CONTENTS
+1. [MISSION](https://github.com/Nelly-Wambui/Nelly-Roadmap/blob/main/README.md#mission)
+2. [VISION](url)
+
 ## MISSION
 
 ```

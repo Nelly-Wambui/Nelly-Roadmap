@@ -1,3 +1,14 @@
+# Hello
+
+My the name is Nelly Wambui, a student of life who has evolved beautifully in the science world.
+I did my undergraduate studies, Bachelor of Science in Medical Biochemistry, at Jomo Kenyatta UNiversity of Agriculture and Technology.
+Bioinformatics is quickly becoming something to love as it has very well been introduced to me here at ICIPE, it almost feels like the
+introduction i had before was nothing as it was shallow. This will be one of those cases one would say, "I came out way much better as 
+compared to how I came in."
+Once done with the internship, and doing my projects well, it is my wish to further my studies in bioinformatics after this internship.
+It is so good to do science projects with the awesome technology the world is lucky to have, and not necessarily needing to go to the wet lab.
+
+
 # Nelly Wambui-Roadmap
 
 ## CONTENTS
@@ -9,31 +20,21 @@
 ## MISSION
 
 ```
-ADAPT FINELY AND REPRODUCE
+To be a well-skilled bioinformatician and mentor others to follow suit as well as help other scientists in biological data management
 ```
 
 ## VISION
 
 ```
-PERFECT MY BIOINFORMATIC SKILLS AND MAKE USE OF THEM IN GOOD PROJECT WRITING
+To become a productive, interactive, able-to-fit-in bioinformatician
 ```
 
 ## MILESTONES
 
-* Personality Type
-* Leadership skills
-* Unix Shell
+* Practise Bash, Python and R frequently
+* Network with other scientists and get mentored
+* Find what field or topic in Science interests me
+* Having great and deep understanding of the cell
+* Nurture my soft skills 
 
-
-## TASKS
- 
- * Personality Type
-  
-  **Know my Personality type**
- * Leadership Skills
-  
-  **Know the type of leader I am**
- * Unix Shell
-  
-  **Practise on the various commands**
  

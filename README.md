@@ -20,21 +20,21 @@ It is so good to do science projects with the awesome technology the world is lu
 ## MISSION
 
 ```
-To be a well-skilled bioinformatician and mentor others to follow suit as well as help other scientists in biological data management
+To be a knowledgeable and well-skilled endocrinologist and bioinformatician
 ```
 
 ## VISION
 
 ```
-To become a productive, interactive, able-to-fit-in bioinformatician
+To become a productive and interactive scientist in bioinformatics and endocrinology
 ```
 
 ## MILESTONES
 
 * Practise Bash, Python and R frequently
 * Network with other scientists and get mentored
-* Find what field or topic in Science interests me
+* Be comfortable with creating workflows with Nextflow
 * Having great and deep understanding of the cell
 * Nurture my soft skills 
-
- 
+* Start applying for my master's program hopefully encompassing both endocrinology and bioinformatics
+* Scout and apply for other good internships/jobs

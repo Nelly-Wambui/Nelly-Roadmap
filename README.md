@@ -20,13 +20,13 @@ It is so good to do science projects with the awesome technology the world is lu
 ## MISSION
 
 ```
-To be a knowledgeable and well-skilled endocrinologist and bioinformatician
+To be a knowledgeable and well-skilled molecular biologist and bioinformatician
 ```
 
 ## VISION
 
 ```
-To become a productive and interactive scientist in bioinformatics and endocrinology
+To become a productive and interactive scientist in bioinformatics and molecular biology
 ```
 
 ## MILESTONES
